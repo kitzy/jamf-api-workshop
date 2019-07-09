@@ -2,6 +2,16 @@
 
 ## Resources
 
+### Read-only Jamf Pro server
+
+URL: https://jamf-api-workshop.kitzy.io
+
+Username: jamf
+
+Password: jamf
+
+### Software
+
 CodeRunner: https://coderunnerapp.com/
 
 ## Documentation
