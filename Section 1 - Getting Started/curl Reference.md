@@ -14,6 +14,6 @@
 | Flag           | Description                            |
 |----------------|----------------------------------------|
 | -k, --insecure |	Skip SSL verification                 |
-| -u, --user	   |  User name and password for auth       |
+| -u, --user	 |  User name and password for auth       |
 | -s, --silent   |	Silent or quiet mode                  |
-| -H, —header	   | Extra header to include in the request |
+| -H, —header	 | Extra header to include in the request |
