@@ -6,7 +6,7 @@
 
 URL: https://jamf-api-workshop.kitzy.io
 
-|   Credentials   |
+Credentials   
 |----------|------|
 | Username | jamf |
 | Password | jamf |
