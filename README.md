@@ -14,6 +14,10 @@ Password: jamf
 
 CodeRunner: https://coderunnerapp.com/
 
+### Bryson's jss-populator
+
+https://github.com/brysontyrrell/jps-populator
+
 ## Documentation
 
 Jamf Pro API Reference: http://developer.jamf.com/apis/jamf-pro-api/index
