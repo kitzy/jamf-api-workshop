@@ -15,7 +15,7 @@ URL: https://jamf-api-workshop.kitzy.io
 
 CodeRunner: https://coderunnerapp.com/
 
-### Bryson's jss-populator
+### Bryson's jps-populator
 
 https://github.com/brysontyrrell/jps-populator
 
